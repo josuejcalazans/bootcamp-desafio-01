@@ -1,0 +1,17 @@
+{
+  "name": "desafio-01",
+  "version": "1.0.0",
+  "description": "Crie uma aplicação do zero utilizando Express",
+  "main": "index.js",
+  "author": "Josue",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
